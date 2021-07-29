@@ -4,6 +4,8 @@
 
 ### English:
 
+0.9.2 - Added first version of spreadsheet for calculation of approximate root values of nonlinear equations.
+
 0.9.1 - Refactored Gauss-Seidel & Jacobi methods spreadsheet. Added case for Gauss-Seidel 2x2.
 
 0.9 - Polished and refactored existing spreadsheets. Deleted macros. Added spreadsheet for calculation of definite integrals by numeric methods.
@@ -13,6 +15,8 @@
 0.1 - Added spreadsheet to find approximate solutions to Differential Equations in one variable using Euler and 2nd and 4th order Runge-Kutta methods.
 
 ### Español:
+
+0.9.2 - Agregada primera versión de una planilla para el cálculo aproximado de raíces de ecuaciones no lineales.
 
 0.9.1 - Refactor de la planilla de Gauss-Seidel & Jacobi . Agregado caso para Gauss-Seidel 2x2.
 
