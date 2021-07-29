@@ -4,6 +4,8 @@
 
 ### English:
 
+0.9.3 - Approximation of Non-linear function roots: Refactored Root Isolation sheet. Added secant method and bisection method spreadsheets.
+
 0.9.2 - Added first version of spreadsheet for calculation of approximate root values of nonlinear equations.
 
 0.9.1 - Refactored Gauss-Seidel & Jacobi methods spreadsheet. Added case for Gauss-Seidel 2x2.
@@ -15,6 +17,8 @@
 0.1 - Added spreadsheet to find approximate solutions to Differential Equations in one variable using Euler and 2nd and 4th order Runge-Kutta methods.
 
 ### Español:
+
+0.9.3 - Cálculo de Raíces de Funciones no Lineales: Refactor de la hoja de aislamiento de raíces. Agregados métodos de la secante y bisección.
 
 0.9.2 - Agregada primera versión de una planilla para el cálculo aproximado de raíces de ecuaciones no lineales.
 
