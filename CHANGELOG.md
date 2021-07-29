@@ -4,6 +4,8 @@
 
 ### English:
 
+0.9.4 - Fixed error in calculation of error bound for Newton-Raphson method
+
 0.9.3 - Approximation of Non-linear function roots: Refactored Root Isolation sheet. Added secant method and bisection method spreadsheets.
 
 0.9.2 - Added first version of spreadsheet for calculation of approximate root values of nonlinear equations.
@@ -17,6 +19,8 @@
 0.1 - Added spreadsheet to find approximate solutions to Differential Equations in one variable using Euler and 2nd and 4th order Runge-Kutta methods.
 
 ### Español:
+
+0.9.4 - Arreglo en cálculo de cota de error para método de Newton-Raphson
 
 0.9.3 - Cálculo de Raíces de Funciones no Lineales: Refactor de la hoja de aislamiento de raíces. Agregados métodos de la secante y bisección.
 
