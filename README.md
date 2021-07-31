@@ -1,10 +1,12 @@
 # matematica-superior
 
-![image](https://user-images.githubusercontent.com/32349705/127745423-2299c1a7-4390-40c1-b919-f5b66f555365.png)
+![image](https://user-images.githubusercontent.com/32349705/127745487-6d31b898-b426-43ad-b347-9df5d0d76c31.png)
 
 ## English:
 
-This project contains Excel spreadsheets and code to solve a collection of mathematical operations via iterative numerical methods. In order to be able to use the spreadsheets, your version of Excel must be able to run LAMBDA functions. As of July 31st, 2021, Office 365 in the Preview Update Channel supports LAMBDA functions. The spreadsheets, therefore, do not contain any Excel Macros nor VBA code.
+This project contains Excel spreadsheets and code to solve a collection of mathematical operations via iterative numerical methods. In order to be able to use the spreadsheets, your version of Excel must be able to run LAMBDA functions. The spreadsheets, therefore, do not contain any Excel Macros nor VBA code. As of July 31st, 2021, Office 365 in the Preview Update Channel supports LAMBDA functions. 
+
+![image](https://user-images.githubusercontent.com/32349705/127745423-2299c1a7-4390-40c1-b919-f5b66f555365.png)
 
 More information on LAMBDA functions can be found at the [Microsoft official support site](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67).
 
@@ -12,7 +14,9 @@ The purpose of this repository is to use it as a resource for the Advanced Mathe
 
 ## Español:
 
-Este proyecto contiene planillas de Excel y código de programación orientado a resolver diversas operaciones matemáticas mediante métodos numéricos iterativos. Para poder hacer uso de las planillas es necesario que la versión de Excel utilizada sea capaz de ejecutar funciones LAMBDA. Al 31 de Julio de 2021, Office 365 en el canal de actualizaciones Preview brinda soporte a las funciones LAMBDA. 
+Este proyecto contiene planillas de Excel y código de programación orientado a resolver diversas operaciones matemáticas mediante métodos numéricos iterativos. Para poder hacer uso de las planillas es necesario que la versión de Excel utilizada sea capaz de ejecutar funciones LAMBDA.  Las planillas, por lo tanto, no contienen ningún tipo de Macro de Excel ni código VBA. Al 31 de Julio de 2021, Office 365 en el canal de actualizaciones Preview brinda soporte a las funciones LAMBDA.
+
+![image](https://user-images.githubusercontent.com/32349705/127745469-46a0f1f8-6dcc-4a55-90ee-e803748ae0ed.png)
 
 Para más información acerca de las funciones LAMBDA, consultar [el sitio de soporte de Microsoft Office](https://support.microsoft.com/es-es/office/funci%C3%B3n-lambda-bd212d27-1cd1-4321-a34a-ccbf254b8b67#:~:text=Use%20la%20funci%C3%B3n%20LAMBDA%20para,las%20funciones%20nativas%20de%20Excel.).
 
