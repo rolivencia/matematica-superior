@@ -1,5 +1,7 @@
 # matematica-superior
 
+![image](https://user-images.githubusercontent.com/32349705/127745423-2299c1a7-4390-40c1-b919-f5b66f555365.png)
+
 ## English:
 
 This project contains Excel spreadsheets and code to solve a collection of mathematical operations via iterative numerical methods. In order to be able to use the spreadsheets, your version of Excel must be able to run LAMBDA functions. As of July 31st, 2021, Office 365 in the Preview Update Channel supports LAMBDA functions. The spreadsheets, therefore, do not contain any Excel Macros nor VBA code.
