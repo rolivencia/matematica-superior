@@ -4,6 +4,8 @@
 
 ### English:
 
+0.9.5 - Added spreadsheet for approximate solutions of Non-linear equation systems, using Newton-Raphson method for systems
+
 0.9.4 - Fixed error in calculation of error bound for Newton-Raphson method
 
 0.9.3 - Approximation of Non-linear function roots: Refactored Root Isolation sheet. Added secant method and bisection method spreadsheets.
@@ -19,6 +21,8 @@
 0.1 - Added spreadsheet to find approximate solutions to Differential Equations in one variable using Euler and 2nd and 4th order Runge-Kutta methods.
 
 ### Español:
+
+0.9.5 - Agregada planilla para aproximación de soluciones a sistemas de ecuaciones no lineales mediante método de Newton-Raphson para sistemas
 
 0.9.4 - Arreglo en cálculo de cota de error para método de Newton-Raphson
 
